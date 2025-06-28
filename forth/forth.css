@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url('../forth/download.jpeg');
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.box {
+    text-align: center;
+}
+h1 {
+    font-size: 5rem;
+    color: white;
+}
+p {
+    font-size: 3rem;
+    color: white;
+}
+.box button {
+    padding: 10px 70px;
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 10px 0;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+@media (max-width: 768px) {
+    h1 {
+        font-size: 3rem;
+    }
+    p {
+        font-size: 1.5rem;
+    }
+    .box button {
+        padding: 10px 40px;
+    }
+}
