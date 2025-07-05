@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+header {
+    padding: 20px 40px;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+header nav ul {
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+}
+header li a {
+    color: white;
+    text-decoration: none;
+}
+header a:hover {
+    color: aqua;
+}
+.hero-section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+.hero-section img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.hero-section .hero-content {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 20px 40px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    text-align: center;
+}
+.hero-content h2 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+.hero-content button {
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    cursor: pointer;
+}
+.hero-content button:hover {
+    background-color: aqua;
+}
+.menu-section {
+    padding: 40px 40px;
+    text-align: center;
+}
+.menu-section h2 {
+    font-size: 3rem;
+    margin-bottom: 40px;
+}
+.menu-section .items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+    justify-content: center;
+    padding: 10px 20px;
+}
+.items .item {
+    background-color: aliceblue;
+    width: 350px;
+    height: 300px;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+    padding: 10px 20px;
+}
+.item img {
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+.item h3 {
+    font-size: 2rem;
+}
+.about-us {
+    padding: 40px 40px;
+    text-align: center;
+    background-color: beige;
+}
+.about-us h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.reservation {
+    padding: 40px 40px;
+    text-align: center;
+}
+.reservation h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.reservation .reservation-form {
+    width: 100%;
+    max-width: 400px;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.reservation-form input {
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border: none;
+}
+.reservation-form textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border: none;
+    resize: none;
+}
+.reservation-form input:hover {
+    border: 1px solid aquamarine;
+}
+.reservation-form textarea:hover {
+    border: 1px solid aquamarine;
+}
+.reservation-form button {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    cursor: pointer;
+}
+.reservation-form button:hover {
+    background-color: aquamarine;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 40px;
+}
