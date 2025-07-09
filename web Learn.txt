@@ -1,0 +1,20 @@
+
+UI/UX
+1: https://hackdesign.org/
+SQL
+1: https://sqlbolt.com/
+DSA
+1: https://visualgo.net/en
+REACT
+1: https://scrimba.com/home
+PYTHON
+1: 
+GIT
+1: https://learngitbranching.js.org/
+API
+1: https://www.freecodecamp.org/news/apis-for-beginners/
+JAVA
+1: https://www.javatpoint.com/
+WEB3
+1: https://learnweb3.io/
+BLOCKCHAIN

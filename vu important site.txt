@@ -1,0 +1,132 @@
+
+2: CSS learning Website
+   2.1: https://css-tricks.com/
+   2.2: https://tympanus.net/codrops/
+   2.3: https://www.smashingmagazine.com/
+   2.4: https://codepen.io/trending
+   2.5: https://cssreference.io/
+   2.6: https://playcss.app/
+   2.7: https://tutorial.techaltum.com/css3.html#:~:text=CSS3%20includes%20some%20new%20features,the%20new%20features%20in%20CSS3.
+
+2: Css Practice
+   2.1: https://www.google.com/search?q=css+practice&rlz=1C1VDKB_enPK1062PK1062&oq=css+practice&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYQDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPNIBCDM4MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+   2.2:
+
+
+
+
+
+=----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3: Boostrap
+   3.1: https://getbootstrap.com/docs/5.2/layout/breakpoints/  
+   3.2: https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4: js practise 
+   4.1: https://www.jschallenger.com/javascript-basics/variables/introduction/
+   4.2: https://app.bigdevsoon.me/home
+   4.3: https://edabit.com/challenges/javascript
+   4.4: https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
+   4.5: https://forum.freecodecamp.org/
+   4.6: https://www.codepractice.dev/js/problems/197
+   4.7: https://www.khanacademy.org/computing/computer-programming
+   4.8: https://www.jshero.net/en/koans/log.html
+   4.9: https://learnjavascript.online/app.html?id=1436
+   4.10: https://mikkegoes.com/javascript-practice/
+   4.11: https://codedamn.com/news/javascript/15-best-platforms-to-practice-javascript
+   4.12: https://gist.github.com/raloliver/6a36bd26e4282ffcfbf19be2d4c490ee
+   4.13: https://www.javascript.com/try
+   4.14: 1: https://scrimba.com/home
+   4.15: https://dlsei.hec.gov.pk/
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5: Jquery Related
+   5.1: https://www.geeksforgeeks.org/jquery-mouse-events/
+   5.2: https://www.tutorialsteacher.com/jquery/jquery-event
+   5.3: https://www.tutorialrepublic.com/jquery-tutorial/jquery-events.php
+   5.4: https://www.tutorialspoint.com/jquery/jquery-events.htm
+   5.5: https://www.javatpoint.com/jquery-tutorial
+   5.6: https://www.tutorialspoint.com/jquery/jquery-ajax.htm
+   5.7: https://beginnersbook.com/2019/05/learn-jquery-tutorial/
+   5.8: 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+6: frontend online practice
+   6.1: https://blog.devgenius.io/top-10-websites-to-practice-and-perfecting-your-frontend-skill-7266999ea80f
+   6.2: https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-pVPjyGUdwK
+   6.3: https://www.google.com/search?q=platform+where+i+practice+with+other+web+developers+&sca_esv=569467049&rlz=1C1VDKB_enPK1062PK1062&ei=sc4WZeOhB47VkwX845j4CA&udm=&ved=0ahUKEwijvvia9M-BAxWO6qQKHfwxBo8Q4dUDCBA&uact=5&oq=platform+where+i+practice+with+other+web+developers+&gs_lp=Egxnd3Mtd2l6LXNlcnAiNHBsYXRmb3JtIHdoZXJlIGkgcHJhY3RpY2Ugd2l0aCBvdGhlciB3ZWIgZGV2ZWxvcGVycyAyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSOm-A1CvEFjNtwNwAngBkAECmAHOBqABvbEBqgEOMi0yNS4zMC4xMC4xLjG4AQPIAQD4AQGoAgrCAhYQABgDGI8BGOUCGOoCGLQCGIwD2AEBwgIWEC4YAxiPARjlAhjqAhi0AhiMA9gBAcICDhAuGIoFGMcBGNEDGJECwgIHEC4YigUYQ8ICBxAAGIoFGEPCAgsQABiKBRixAxiDAcICDRAAGIoFGLEDGIMBGEPCAgUQLhiABMICCxAAGIAEGLEDGIMBwgIdEC4YigUYxwEY0QMYkQIYlwUY3AQY3gQY4ATYAQLCAg4QABiKBRixAxiDARiRAsICJRAuGIoFGEMYlwUY3AQY3gQY4AQY9AMY8QMY9QMY9gMY9wPYAQLCAgsQLhiKBRixAxiRAsICCxAAGIoFGLEDGJECwgIpEC4YigUYsQMYkQIYlwUY3AQY3gQY4AQY9AMY8QMY9QMY9gMY9wPYAQLCAgsQLhixAxiKBRiRAsICKRAuGLEDGIoFGJECGJcFGNwEGN4EGOAEGPQDGPEDGPUDGPYDGPcD2AECwgIIEAAYigUYkQLCAgUQABiABMICCBAAGIoFGIYDwgIGEAAYFhgewgIIEAAYF        	hgeGArCAggQABgWGB4YD8ICCBAhGBYYHhgdwgIKECEYFhgeGA8YHcICBBAhGBXCAgcQIRigARgKwgIFEAAYogTiAwQYACBBiAYBugYECAEYCroGBggCEAEYFA&sclient=gws-wiz-serp
+   6.4: https://sacodiingweb.blogspot.com/2023/11/coffee-shop-website.html
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044
+https://novoed.com/request-a-demo/
+https://www.behance.net/blog/
+https://www.coursera.org/
+https://alison.com/free-lms-programme
+https://www.ck12.org/student/
+https://www.teachthought.com/technology/free-elearning-courses/
+https://www.toptal.com/screening_wizard/application
+https://clearlydecoded.com/
+https://frontendmasters.com/dashboard/
+https://interns.pka/
+https://expressjs.com/en/starter/generator.html
+
+--------------------------------------------------------
+Search Relate 
+
+1: programing question related
+   1.1: https://hashnode.com/discussions?source=header
+   1.2: https://www.codeproject.com/Lounge.aspx
+   1.3: https://stackoverflow.com/
+   1.4: https://www.reddit.com/user/Tiny-Training782/submit
+   1.5: https://www.hostinger.com/tutorials/learn-coding-online-for-free
+   1.6: https://techreviewer.co/blog/top-websites-for-web-developers-that-web-developers-should-follow
+   1.7: https://dev.to/
+   1.8: https://dev.to/guides
+   1.9: https://www.indiehackers.com/
+   1.10: https://www.numberguru.com/search/03204012126/
+   1.11: https://www.google.com/search?q=how+to+track+your+lost+sim+card+with+number+free+online&sca_esv=1eabd946f7bc57df&rlz=1C1VDKB_enPK1062PK1062&ei=ajnJZaa6CNbcxc8Po5qBCA&oq=how+to+track+your+lost+sim+card+with+number+free&gs_lp=Egxnd3Mtd2l6LXNlcnAiMGhvdyB0byB0cmFjayB5b3VyIGxvc3Qgc2ltIGNhcmQgd2l0aCBudW1iZXIgZnJlZSoCCAAyBRAhGKABMgUQIRigAUihJlDjAViLHHABeAGQAQCYAY4DoAHVDKoBBTItMS40uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBhAAGBYYHsICBxAhGAoYoAHiAwQYACBBiAYBkAYI&sclient=gws-wiz-serp
+
+2: locateanumber.com
+3: robots.net
+4: cellularnews.com
+
+
+-----------------------------------------------------------------------------------------
+Programer realted
+
+
+3: Learning
+   3.1: https://www.programiz.com/
+   3.2: https://sci-hub.se/
+   3.3: https://alison.com/courses?query=English
+   3.4: https://www.mindluster.com/lesson/875 
+
+10: Important website topic
+   11.1: https://www.google.com/search?q=mdn+web+doc&rlz=1C1VDKB_enPK1062PK1062&oq=mdn+web+doc&aqs=chrome..69i57j69i65.4909j0j7&sourceid=chrome&ie=UTF-8
+   11.2: https://upskillcourses.com/courses
+   11.3: https://www.tutorialspoint.com/javascript/javascript_syntax.htm
+   11.4: https://forum.freecodecamp.org/c/javascript/421
+   11.5: https://www.mindluster.com/lesson/875
+   11.6: https://www.w3docs.com/tools/code-editor/3701
